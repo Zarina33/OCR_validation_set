@@ -6,8 +6,8 @@ def update_paths_in_txt(input_txt, output_txt):
         output_txt (str): Path to save the updated TXT file
     """
     # Определяем старый и новый пути
-    old_path = '/mnt/ks/Works/railcars/railcars_new/valid_codes/validation/'
-    new_path = '/Users/zarinamacbook/Desktop/valid/validation/'
+    old_path = '/mnt/ks/Works/railcars/railcars_new/valid_codes/new_23_01_25/'
+    new_path = '/Users/zarinamacbook/Desktop/valid/new_23_01_25/'
 
     try:
         # Читаем входной файл
@@ -31,6 +31,6 @@ def update_paths_in_txt(input_txt, output_txt):
         print(f"Произошла ошибка: {e}")
 
 if __name__ == "__main__":
-    input_txt = "/Users/zarinamacbook/Desktop/valid/ocr_results.txt"
-    output_txt = "/Users/zarinamacbook/Desktop/valid/last.txt"
+    input_txt = "/Users/zarinamacbook/Desktop/valid/new_23_01_25.txt"
+    output_txt = "/Users/zarinamacbook/Desktop/valid/23_01_25.txt"
     update_paths_in_txt(input_txt, output_txt)

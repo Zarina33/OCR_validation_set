@@ -1,0 +1,485 @@
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212359_[M][0@0][0]_crop_0.jpg	50490424
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212400_[M][0@0][0]_crop_0.jpg	50430424
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220434_[M][0@0][0]_crop_0.jpg	3772376
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231208_[M][0@0][0]_crop_0.jpg	63285373
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220309_[M][0@0][0]_crop_0.jpg	525813002
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141155_[M][0@0][0]_crop_0.jpg	64931389
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144622_[M][0@0][0]_crop_0.jpg	57076917
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144701_[M][0@0][0]_crop_0.jpg	78224425
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220435_[M][0@0][0]_crop_0.jpg	58174376
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183050_[M][0@0][0]_crop_0.jpg	53856746
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232816_[M][0@0][0]_crop_0.jpg	935607793
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144704_[M][0@0][0]_crop_0.jpg	78223203
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165754_[M][0@0][0]_crop_0.jpg	51575851
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212237_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212528_[M][0@0][0]_crop_0.jpg	58305673
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144642_[M][0@0][0]_crop_0.jpg	1587245
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183124_[M][0@0][0]_crop_0.jpg	28866275
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212334_[M][0@0][0]_crop_0.jpg	864758
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231146_[M][0@0][0]_crop_0.jpg	53496170
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212424_[M][0@0][0]_crop_0.jpg	5145455
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141251_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220443_[M][0@0][0]_crop_0.jpg	52174323
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205838_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144632_[M][0@0][0]_crop_0.jpg	16165
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183155_[M][0@0][0]_crop_0.jpg	51042478
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141517_[M][0@0][0]_crop_0.jpg	67627562
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220253_[M][0@0][0]_crop_0.jpg	930139691
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232801_[M][0@0][0]_crop_1.jpg	7219
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183136_[M][0@0][0]_crop_0.jpg	50974136
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220401_[M][0@0][0]_crop_0.jpg	0779
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165657_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231202_[M][0@0][0]_crop_0.jpg	54207604
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144615_[M][0@0][0]_crop_0.jpg	51032621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130303_[M][0@0][0]_crop_0.jpg	90351569
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194612_[M][0@0][0]_crop_1.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200445_[M][0@0][0]_crop_0.jpg	98940463
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232926_[M][0@0][0]_crop_0.jpg	51628857
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200454_[M][0@0][0]_crop_0.jpg	1
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119002010_[M][0@0][0]_crop_0.jpg	91240
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220359_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212341_[M][0@0][0]_crop_0.jpg	51047786
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205706_[M][0@0][0]_crop_0.jpg	1332407
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143146_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220313_[M][0@0][0]_crop_0.jpg	25834471
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212420_[M][0@0][0]_crop_0.jpg	2
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212301_[M][0@0][0]_crop_0.jpg	270053305
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232819_[M][0@0][0]_crop_0.jpg	93566291
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232949_[M][0@0][0]_crop_0.jpg	75027979
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143123_[M][0@0][0]_crop_0.jpg	54032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212436_[M][0@0][0]_crop_0.jpg	707128062
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232746_[M][0@0][0]_crop_0.jpg	051
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205857_[M][0@0][0]_crop_0.jpg	73666786
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212313_[M][0@0][0]_crop_0.jpg	519255
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220232_[M][0@0][0]_crop_0.jpg	21550341
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144659_[M][0@0][0]_crop_0.jpg	5080562
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205918_[M][0@0][0]_crop_0.jpg	54075270
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194547_[M][0@0][0]_crop_0.jpg	21307
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194557_[M][0@0][0]_crop_2.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130314_[M][0@0][0]_crop_0.jpg	57148421
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144639_[M][0@0][0]_crop_0.jpg	51044089
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200405_[M][0@0][0]_crop_0.jpg	57329484
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212402_[M][0@0][0]_crop_0.jpg	54888222
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130316_[M][0@0][0]_crop_0.jpg	55338297
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000106_[M][0@0][0]_crop_0.jpg	572933834
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205734_[M][0@0][0]_crop_0.jpg	61370169
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212331_[M][0@0][0]_crop_0.jpg	51647592
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000100_[M][0@0][0]_crop_0.jpg	2704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183101_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205742_[M][0@0][0]_crop_0.jpg	62968037
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141519_[M][0@0][0]_crop_0.jpg	7333460279
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231120_[M][0@0][0]_crop_0.jpg	435589
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143118_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220444_[M][0@0][0]_crop_0.jpg	63174342
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220402_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183018_[M][0@0][0]_crop_0.jpg	65042152
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143105_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205720_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130228_[M][0@0][0]_crop_0.jpg	51741585
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143153_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194606_[M][0@0][0]_crop_1.jpg	01814981
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232731_[M][0@0][0]_crop_0.jpg	1933462782
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000205_[M][0@0][0]_crop_0.jpg	51032621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212329_[M][0@0][0]_crop_0.jpg	5012524
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183139_[M][0@0][0]_crop_0.jpg	50352079
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143209_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165713_[M][0@0][0]_crop_0.jpg	5323314
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231122_[M][0@0][0]_crop_0.jpg	634151
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232821_[M][0@0][0]_crop_0.jpg	03324
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200436_[M][0@0][0]_crop_0.jpg	951218365
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183126_[M][0@0][0]_crop_0.jpg	20861275
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205930_[M][0@0][0]_crop_0.jpg	51536937
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232852_[M][0@0][0]_crop_0.jpg	5174617
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212323_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212535_[M][0@0][0]_crop_0.jpg	73930554
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220228_[M][0@0][0]_crop_0.jpg	756459892
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141438_[M][0@0][0]_crop_0.jpg	67038826
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205756_[M][0@0][0]_crop_0.jpg	603631
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141459_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183055_[M][0@0][0]_crop_1.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232816_[M][0@0][0]_crop_1.jpg	9350
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194552_[M][0@0][0]_crop_1.jpg	21439
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000200_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205842_[M][0@0][0]_crop_0.jpg	75015024
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220307_[M][0@0][0]_crop_0.jpg	2503385
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231140_[M][0@0][0]_crop_0.jpg	500515
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205820_[M][0@0][0]_crop_0.jpg	51240596
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144719_[M][0@0][0]_crop_1.jpg	7210
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183015_[M][0@0][0]_crop_0.jpg	64962616
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183049_[M][0@0][0]_crop_0.jpg	55985386
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000157_[M][0@0][0]_crop_0.jpg	51032712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232801_[M][0@0][0]_crop_0.jpg	7219
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220448_[M][0@0][0]_crop_1.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205804_[M][0@0][0]_crop_0.jpg	60329679
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141435_[M][0@0][0]_crop_0.jpg	67430326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165746_[M][0@0][0]_crop_0.jpg	54888128
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212338_[M][0@0][0]_crop_0.jpg	3
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000054_[M][0@0][0]_crop_0.jpg	510632621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194612_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130313_[M][0@0][0]_crop_0.jpg	51294056
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232811_[M][0@0][0]_crop_0.jpg	935866798
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000055_[M][0@0][0]_crop_0.jpg	51032621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130311_[M][0@0][0]_crop_0.jpg	51853265
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220345_[M][0@0][0]_crop_0.jpg	50630532
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220358_[M][0@0][0]_crop_0.jpg	2771217
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212407_[M][0@0][0]_crop_0.jpg	53712852
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183017_[M][0@0][0]_crop_0.jpg	65042152
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144645_[M][0@0][0]_crop_0.jpg	51201051
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141200_[M][0@0][0]_crop_0.jpg	65076721
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232946_[M][0@0][0]_crop_0.jpg	7082972
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231219_[M][0@0][0]_crop_0.jpg	29190238
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220441_[M][0@0][0]_crop_0.jpg	5086666
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231136_[M][0@0][0]_crop_0.jpg	621541093
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141221_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165726_[M][0@0][0]_crop_0.jpg	5824
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143154_[M][0@0][0]_crop_0.jpg	5103828
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220251_[M][0@0][0]_crop_0.jpg	29034261
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194547_[M][0@0][0]_crop_1.jpg	71307
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141433_[M][0@0][0]_crop_0.jpg	67839326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141513_[M][0@0][0]_crop_0.jpg	64931389
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183158_[M][0@0][0]_crop_0.jpg	0505642
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141257_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231201_[M][0@0][0]_crop_0.jpg	54207881
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183102_[M][0@0][0]_crop_0.jpg	56709496
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205920_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232802_[M][0@0][0]_crop_0.jpg	530641219
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165711_[M][0@0][0]_crop_0.jpg	95413567
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000203_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183008_[M][0@0][0]_crop_0.jpg	154201733
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194601_[M][0@0][0]_crop_0.jpg	78988
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220340_[M][0@0][0]_crop_0.jpg	61858882
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212435_[M][0@0][0]_crop_0.jpg	70712906
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231118_[M][0@0][0]_crop_0.jpg	54627
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232730_[M][0@0][0]_crop_0.jpg	7333440278
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165804_[M][0@0][0]_crop_0.jpg	74989062
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183042_[M][0@0][0]_crop_0.jpg	50172899
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143117_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141518_[M][0@0][0]_crop_0.jpg	87627562
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000152_[M][0@0][0]_crop_0.jpg	2702
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231155_[M][0@0][0]_crop_0.jpg	525745
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212457_[M][0@0][0]_crop_0.jpg	51727062
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212350_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183104_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232733_[M][0@0][0]_crop_0.jpg	44084572
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232941_[M][0@0][0]_crop_0.jpg	513665
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212253_[M][0@0][0]_crop_0.jpg	04962
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232800_[M][0@0][0]_crop_0.jpg	52471787
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200535_[M][0@0][0]_crop_0.jpg	9200
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205801_[M][0@0][0]_crop_0.jpg	9966
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232934_[M][0@0][0]_crop_0.jpg	514368891
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141506_[M][0@0][0]_crop_0.jpg	63211916
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141159_[M][0@0][0]_crop_0.jpg	85078121
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183120_[M][0@0][0]_crop_0.jpg	29078196
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165732_[M][0@0][0]_crop_0.jpg	51667681
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205850_[M][0@0][0]_crop_0.jpg	6
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212456_[M][0@0][0]_crop_0.jpg	51757069
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130212_[M][0@0][0]_crop_0.jpg	51082345
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232858_[M][0@0][0]_crop_0.jpg	466712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144633_[M][0@0][0]_crop_0.jpg	76609791
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205836_[M][0@0][0]_crop_0.jpg	53086362
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205855_[M][0@0][0]_crop_0.jpg	73066999
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220234_[M][0@0][0]_crop_0.jpg	24546251
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143210_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212514_[M][0@0][0]_crop_0.jpg	58714320
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200418_[M][0@0][0]_crop_0.jpg	505261730
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205934_[M][0@0][0]_crop_1.jpg	89
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212404_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205815_[M][0@0][0]_crop_0.jpg	53612404
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212311_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200425_[M][0@0][0]_crop_0.jpg	581247524
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220419_[M][0@0][0]_crop_0.jpg	76631704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144624_[M][0@0][0]_crop_0.jpg	824
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200559_[M][0@0][0]_crop_0.jpg	166041
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194617_[M][0@0][0]_crop_1.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232944_[M][0@0][0]_crop_0.jpg	51437168
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130219_[M][0@0][0]_crop_0.jpg	51625424
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141456_[M][0@0][0]_crop_0.jpg	65770166
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212444_[M][0@0][0]_crop_0.jpg	57366213
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212455_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220438_[M][0@0][0]_crop_0.jpg	50338205
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165739_[M][0@0][0]_crop_0.jpg	54888086
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212309_[M][0@0][0]_crop_0.jpg	521475163
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220442_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183044_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144649_[M][0@0][0]_crop_0.jpg	545725
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183140_[M][0@0][0]_crop_0.jpg	1
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119182946_[M][0@0][0]_crop_0.jpg	55620785
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200413_[M][0@0][0]_crop_0.jpg	3
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205844_[M][0@0][0]_crop_1.jpg	66
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232841_[M][0@0][0]_crop_0.jpg	9932181026
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143213_[M][0@0][0]_crop_0.jpg	510326211
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220410_[M][0@0][0]_crop_0.jpg	23
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183105_[M][0@0][0]_crop_0.jpg	57574790
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000108_[M][0@0][0]_crop_0.jpg	57293383
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212345_[M][0@0][0]_crop_0.jpg	75024414
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220347_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141157_[M][0@0][0]_crop_0.jpg	63218
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183003_[M][0@0][0]_crop_0.jpg	3
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212433_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141232_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220341_[M][0@0][0]_crop_0.jpg	61858882
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200423_[M][0@0][0]_crop_0.jpg	5744052
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141207_[M][0@0][0]_crop_0.jpg	01727
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119182959_[M][0@0][0]_crop_0.jpg	65202517
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141224_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220422_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212438_[M][0@0][0]_crop_0.jpg	760
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205721_[M][0@0][0]_crop_0.jpg	62349915
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220325_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144638_[M][0@0][0]_crop_0.jpg	60526334
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144705_[M][0@0][0]_crop_0.jpg	505356328
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232911_[M][0@0][0]_crop_0.jpg	75024562
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212225_[M][0@0][0]_crop_0.jpg	29606797
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000109_[M][0@0][0]_crop_0.jpg	57293383
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231151_[M][0@0][0]_crop_0.jpg	343477
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130241_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231133_[M][0@0][0]_crop_0.jpg	2
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220257_[M][0@0][0]_crop_0.jpg	33015087
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212257_[M][0@0][0]_crop_0.jpg	52675968
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231224_[M][0@0][0]_crop_0.jpg	291714125
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220415_[M][0@0][0]_crop_0.jpg	50892009
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000119_[M][0@0][0]_crop_0.jpg	50019
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143208_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231117_[M][0@0][0]_crop_0.jpg	56927163
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143129_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231210_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143124_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119002009_[M][0@0][0]_crop_0.jpg	1912710
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205904_[M][0@0][0]_crop_0.jpg	620555
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212232_[M][0@0][0]_crop_0.jpg	65042764
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212310_[M][0@0][0]_crop_0.jpg	52747516
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220229_[M][0@0][0]_crop_0.jpg	936459192
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232940_[M][0@0][0]_crop_0.jpg	53
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205750_[M][0@0][0]_crop_0.jpg	60382835
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130249_[M][0@0][0]_crop_0.jpg	510769
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212416_[M][0@0][0]_crop_0.jpg	1784
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130254_[M][0@0][0]_crop_0.jpg	291210524
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220300_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220418_[M][0@0][0]_crop_0.jpg	76631704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143115_[M][0@0][0]_crop_0.jpg	51032528
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144619_[M][0@0][0]_crop_0.jpg	57293383
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231124_[M][0@0][0]_crop_0.jpg	32624986
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212352_[M][0@0][0]_crop_0.jpg	57883248
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212229_[M][0@0][0]_crop_0.jpg	29244621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165737_[M][0@0][0]_crop_0.jpg	50459265
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220333_[M][0@0][0]_crop_0.jpg	52254183
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220413_[M][0@0][0]_crop_0.jpg	50485
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232936_[M][0@0][0]_crop_0.jpg	51588622
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220231_[M][0@0][0]_crop_0.jpg	724550310
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200521_[M][0@0][0]_crop_0.jpg	585246248
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119182950_[M][0@0][0]_crop_0.jpg	54794540
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220405_[M][0@0][0]_crop_0.jpg	29132123
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200539_[M][0@0][0]_crop_0.jpg	51330896
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231220_[M][0@0][0]_crop_0.jpg	29190238
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232737_[M][0@0][0]_crop_0.jpg	2838802
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212328_[M][0@0][0]_crop_0.jpg	50725274
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183122_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232846_[M][0@0][0]_crop_0.jpg	58707225
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000102_[M][0@0][0]_crop_0.jpg	51032712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000147_[M][0@0][0]_crop_0.jpg	572933831
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232853_[M][0@0][0]_crop_0.jpg	53872636
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130238_[M][0@0][0]_crop_0.jpg	50354356
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143205_[M][0@0][0]_crop_0.jpg	51032712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000209_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205824_[M][0@0][0]_crop_0.jpg	5029329
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141206_[M][0@0][0]_crop_0.jpg	63201727
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212507_[M][0@0][0]_crop_0.jpg	57427775
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141450_[M][0@0][0]_crop_0.jpg	1727
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165654_[M][0@0][0]_crop_0.jpg	50731819
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200524_[M][0@0][0]_crop_0.jpg	15571057
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143143_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220427_[M][0@0][0]_crop_0.jpg	508674
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212347_[M][0@0][0]_crop_0.jpg	75027862
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183020_[M][0@0][0]_crop_0.jpg	60197449
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232732_[M][0@0][0]_crop_0.jpg	61014572
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165714_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205859_[M][0@0][0]_crop_0.jpg	53960407
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000057_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143144_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165808_[M][0@0][0]_crop_0.jpg	1425504
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000206_[M][0@0][0]_crop_0.jpg	51032621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165658_[M][0@0][0]_crop_0.jpg	76777093
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205905_[M][0@0][0]_crop_0.jpg	51620535
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220349_[M][0@0][0]_crop_0.jpg	70742525
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205925_[M][0@0][0]_crop_0.jpg	95
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232759_[M][0@0][0]_crop_1.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200440_[M][0@0][0]_crop_0.jpg	95064184
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212530_[M][0@0][0]_crop_0.jpg	136
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130243_[M][0@0][0]_crop_0.jpg	54886445
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205816_[M][0@0][0]_crop_0.jpg	53812454
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130224_[M][0@0][0]_crop_0.jpg	51737773
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220244_[M][0@0][0]_crop_0.jpg	3430327
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200542_[M][0@0][0]_crop_0.jpg	15150482
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212537_[M][0@0][0]_crop_0.jpg	7590551
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205917_[M][0@0][0]_crop_0.jpg	170
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212358_[M][0@0][0]_crop_0.jpg	50490424
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232818_[M][0@0][0]_crop_0.jpg	93566297
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144623_[M][0@0][0]_crop_0.jpg	175131001
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165817_[M][0@0][0]_crop_0.jpg	5570901
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212441_[M][0@0][0]_crop_0.jpg	73921713
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212410_[M][0@0][0]_crop_0.jpg	50463017
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212529_[M][0@0][0]_crop_0.jpg	58305673
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205830_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205717_[M][0@0][0]_crop_0.jpg	30776
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232740_[M][0@0][0]_crop_0.jpg	658733
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231204_[M][0@0][0]_crop_0.jpg	53816567
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220354_[M][0@0][0]_crop_0.jpg	27246
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000213_[M][0@0][0]_crop_0.jpg	2127190
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130307_[M][0@0][0]_crop_0.jpg	53894929
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205916_[M][0@0][0]_crop_0.jpg	51212266
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183153_[M][0@0][0]_crop_0.jpg	632057
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130204_[M][0@0][0]_crop_0.jpg	1332404794
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000153_[M][0@0][0]_crop_0.jpg	51032712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220407_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130326_[M][0@0][0]_crop_0.jpg	51205227
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212413_[M][0@0][0]_crop_0.jpg	3923450
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205844_[M][0@0][0]_crop_0.jpg	75026070
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000202_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220331_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205939_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143159_[M][0@0][0]_crop_0.jpg	57293383
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141430_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220429_[M][0@0][0]_crop_0.jpg	588336727
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232824_[M][0@0][0]_crop_0.jpg	9381214950
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232938_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194556_[M][0@0][0]_crop_1.jpg	7059
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231150_[M][0@0][0]_crop_0.jpg	53474787
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205834_[M][0@0][0]_crop_0.jpg	51527950
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183200_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212417_[M][0@0][0]_crop_0.jpg	5029116
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205939_[M][0@0][0]_crop_1.jpg	6
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205942_[M][0@0][0]_crop_0.jpg	550
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232901_[M][0@0][0]_crop_0.jpg	75078428
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232755_[M][0@0][0]_crop_0.jpg	332472908
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200544_[M][0@0][0]_crop_0.jpg	50503150
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130229_[M][0@0][0]_crop_0.jpg	51211431
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205932_[M][0@0][0]_crop_0.jpg	51527325
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200420_[M][0@0][0]_crop_0.jpg	50237809
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212243_[M][0@0][0]_crop_0.jpg	2901133084
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183125_[M][0@0][0]_crop_0.jpg	28866275
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194556_[M][0@0][0]_crop_2.jpg	20591
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000156_[M][0@0][0]_crop_0.jpg	51032712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212505_[M][0@0][0]_crop_0.jpg	7427775
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141447_[M][0@0][0]_crop_0.jpg	6542983
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130207_[M][0@0][0]_crop_0.jpg	51029650
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200422_[M][0@0][0]_crop_0.jpg	57444032
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220237_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183012_[M][0@0][0]_crop_0.jpg	580184
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231144_[M][0@0][0]_crop_0.jpg	546729
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232747_[M][0@0][0]_crop_0.jpg	108926
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183011_[M][0@0][0]_crop_0.jpg	58038415
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205748_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232948_[M][0@0][0]_crop_0.jpg	1979
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165812_[M][0@0][0]_crop_0.jpg	57396921
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141203_[M][0@0][0]_crop_0.jpg	85770166
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130306_[M][0@0][0]_crop_0.jpg	58270612
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183100_[M][0@0][0]_crop_0.jpg	52024142
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212425_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141431_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220319_[M][0@0][0]_crop_0.jpg	35632040
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205823_[M][0@0][0]_crop_0.jpg	502962197
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232854_[M][0@0][0]_crop_0.jpg	53872616
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141514_[M][0@0][0]_crop_0.jpg	64931389
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205807_[M][0@0][0]_crop_0.jpg	50268317
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212458_[M][0@0][0]_crop_0.jpg	517357062
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141205_[M][0@0][0]_crop_0.jpg	63201727
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205733_[M][0@0][0]_crop_0.jpg	31370169
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205911_[M][0@0][0]_crop_0.jpg	5483
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231214_[M][0@0][0]_crop_0.jpg	50605120
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183035_[M][0@0][0]_crop_0.jpg	694437839
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143107_[M][0@0][0]_crop_0.jpg	51032712
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165736_[M][0@0][0]_crop_0.jpg	54889233
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183006_[M][0@0][0]_crop_0.jpg	00694
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141255_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212320_[M][0@0][0]_crop_0.jpg	6295049
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200516_[M][0@0][0]_crop_0.jpg	3506
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143212_[M][0@0][0]_crop_0.jpg	51032621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205752_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200548_[M][0@0][0]_crop_0.jpg	70871
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232823_[M][0@0][0]_crop_0.jpg	93321990
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212506_[M][0@0][0]_crop_0.jpg	57427775
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232833_[M][0@0][0]_crop_1.jpg	43502391
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165755_[M][0@0][0]_crop_0.jpg	85838280
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000207_[M][0@0][0]_crop_0.jpg	510632621
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194558_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205819_[M][0@0][0]_crop_0.jpg	7475001
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231139_[M][0@0][0]_crop_0.jpg	6005152
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232833_[M][0@0][0]_crop_0.jpg	43502
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000118_[M][0@0][0]_crop_0.jpg	51290
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141507_[M][0@0][0]_crop_0.jpg	63211916
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130305_[M][0@0][0]_crop_0.jpg	91803838
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141254_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205718_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205751_[M][0@0][0]_crop_0.jpg	65
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220412_[M][0@0][0]_crop_0.jpg	50118615
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205849_[M][0@0][0]_crop_0.jpg	3
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212503_[M][0@0][0]_crop_0.jpg	14957424
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200424_[M][0@0][0]_crop_0.jpg	58142524
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141502_[M][0@0][0]_crop_0.jpg	65076721
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205809_[M][0@0][0]_crop_0.jpg	51543312
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205827_[M][0@0][0]_crop_0.jpg	5029151
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143119_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212520_[M][0@0][0]_crop_0.jpg	54887005
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232859_[M][0@0][0]_crop_0.jpg	370406120
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119143151_[M][0@0][0]_crop_0.jpg	51032928
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194617_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141439_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130315_[M][0@0][0]_crop_0.jpg	57526533
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231227_[M][0@0][0]_crop_0.jpg	75827382
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165728_[M][0@0][0]_crop_0.jpg	7724132
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231215_[M][0@0][0]_crop_0.jpg	50105120
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212406_[M][0@0][0]_crop_0.jpg	58712862
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119224741_[M][0@0][0]_crop_0.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212427_[M][0@0][0]_crop_0.jpg	53872727
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205900_[M][0@0][0]_crop_0.jpg	53960407
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231154_[M][0@0][0]_crop_0.jpg	52857455
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205825_[M][0@0][0]_crop_0.jpg	1523
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130209_[M][0@0][0]_crop_0.jpg	58273574
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212521_[M][0@0][0]_crop_0.jpg	5401
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141230_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212502_[M][0@0][0]_crop_0.jpg	174957424
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141208_[M][0@0][0]_crop_0.jpg	654288
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220226_[M][0@0][0]_crop_0.jpg	53361130
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231223_[M][0@0][0]_crop_0.jpg	2174125
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121231154_[M][0@0][0]_crop_1.jpg	2057
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220416_[M][0@0][0]_crop_0.jpg	65089200
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232804_[M][0@0][0]_crop_0.jpg	4566095
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212342_[M][0@0][0]_crop_1.jpg	010473055
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220436_[M][0@0][0]_crop_0.jpg	50748984
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220423_[M][0@0][0]_crop_0.jpg	50834654
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220236_[M][0@0][0]_crop_0.jpg	52228123
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141154_[M][0@0][0]_crop_0.jpg	67627562
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205909_[M][0@0][0]_crop_0.jpg	3901
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141443_[M][0@0][0]_crop_0.jpg	13
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141229_[M][0@0][0]_crop_0.jpg	67838326
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212450_[M][0@0][0]_crop_0.jpg	2
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183201_[M][0@0][0]_crop_0.jpg	281495
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183116_[M][0@0][0]_crop_0.jpg	29009586
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205715_[M][0@0][0]_crop_0.jpg	6
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141458_[M][0@0][0]_crop_0.jpg	65770166
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119000114_[M][0@0][0]_crop_0.jpg	570093
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165814_[M][0@0][0]_crop_0.jpg	51077758
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119165740_[M][0@0][0]_crop_0.jpg	50731579
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232745_[M][0@0][0]_crop_0.jpg	60857323
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121194556_[M][0@0][0]_crop_0.jpg	20591
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232910_[M][0@0][0]_crop_0.jpg	54
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130312_[M][0@0][0]_crop_0.jpg	74924168
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232935_[M][0@0][0]_crop_0.jpg	51438857
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212348_[M][0@0][0]_crop_0.jpg	75027862
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212440_[M][0@0][0]_crop_0.jpg	13921710
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119200552_[M][0@0][0]_crop_0.jpg	75415208
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119232919_[M][0@0][0]_crop_0.jpg	53886644
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212300_[M][0@0][0]_crop_0.jpg	27005310
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205732_[M][0@0][0]_crop_0.jpg	6846
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119141457_[M][0@0][0]_crop_0.jpg	65770166
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212519_[M][0@0][0]_crop_0.jpg	54887005
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144616_[M][0@0][0]_crop_0.jpg	51032704
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121205910_[M][0@0][0]_crop_0.jpg	51481901
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119144644_[M][0@0][0]_crop_0.jpg	58280212
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220431_[M][0@0][0]_crop_0.jpg	758
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119220409_[M][0@0][0]_crop_0.jpg	234847
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130202_[M][0@0][0]_crop_0.jpg	1733340179
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119130227_[M][0@0][0]_crop_0.jpg	75042275
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212530_[M][0@0][0]_crop_1.jpg	
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250121212349_[M][0@0][0]_crop_0.jpg	75027612
+/Users/zarinamacbook/Desktop/valid/new_23_01_25/001_20250119183110_[M][0@0][0]_crop_0.jpg	

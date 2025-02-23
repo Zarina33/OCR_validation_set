@@ -51,7 +51,7 @@ def open_images_in_preview(txt_file_path: str, start_line: int, end_line: int):
         logger.error(f"Ошибка: {e}")
 
 def main():
-    txt_file_path = '/Users/zarinamacbook/Desktop/valid/last.txt'
+    txt_file_path = '/Users/zarinamacbook/Desktop/valid/23_01_25.txt'
     
     try:
         start_line = int(input("Введите номер начальной строки: "))
